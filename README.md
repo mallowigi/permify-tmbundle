@@ -6,6 +6,14 @@ Syntax support for the Perm authorization language. This extension adds basic fe
 - Syntax highlighting
 - Code snippets
 
+## Screenshots
+
+![CleanShot 2024-06-08 at 18 28 46@2x](https://github.com/mallowigi/permify-tmbundle/assets/5015756/3795cb8f-60bb-4325-8091-65b39b1f5242)
+
+![CleanShot 2024-06-08 at 18 29 30@2x](https://github.com/mallowigi/permify-tmbundle/assets/5015756/9716ebea-5f65-49e9-81ae-cf8d7b88b0a9)
+
+
+
 ## Installation
 
 ### VSCode
