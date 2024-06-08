@@ -1,6 +1,6 @@
 # Permify TextMate Bundle
 
-Syntax support for the Perm authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode, JetBrains IDEs, or any IDE supporting `tmBundle` support.
+Syntax support for the Permify authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode, JetBrains IDEs, or any IDE supporting `tmBundle` support.
 
 ## Features
 - Syntax highlighting
