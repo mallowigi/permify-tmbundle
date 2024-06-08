@@ -1,12 +1,25 @@
 # Perm
-Syntax support for the Perm authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode, TextMate, IntelliJ IDEA, or any IDE supporting `tmBundle` support.
+Syntax support for the Perm authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode, TextMate, JetBrains, or any IDE supporting `tmBundle` support.
 
 ## Features
 - Syntax highlighting
 - Code snippets
 
 ## Installation
+
+### VSCode
 You can install the plugin by searching for Perm extension in the extensions market place.
+
+### JetBrains
+
+JetBrains IDEs has _TextMate Bundles_ support through an official plugin. To use the textMate Bundle:
+
+1. Make sure the `TextMate Bundles` plugin is enabled
+2. Download `Permify.tmbundle` from this repository
+3. Go to Settings > TextMate Bundles
+4. Click on the "+" button
+5. Select the tmBundle file
+6. Enjoy
 
 ## For more information
 * [Permify](http://permify.co)
