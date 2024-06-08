@@ -1,5 +1,5 @@
 # Perm
-Syntax support for the Perm authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode
+Syntax support for the Perm authorization language. This extension adds basic features to help make writing Perm much more pleasant in VSCode, TextMate, IntelliJ IDEA, or any IDE supporting `tmBundle` support.
 
 ## Features
 - Syntax highlighting
